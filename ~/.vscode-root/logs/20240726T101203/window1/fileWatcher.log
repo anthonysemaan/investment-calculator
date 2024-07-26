@@ -1,0 +1,2 @@
+2024-07-26 10:15:03.536 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /Users/anthonysemaan/Projects/investment-calculator)
+2024-07-26 10:15:03.737 [warning] [File Watcher (parcel)] Watcher restarts because watched path got created again (path: /Users/anthonysemaan/Projects/investment-calculator)
